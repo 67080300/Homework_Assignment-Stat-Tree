@@ -1,0 +1,4 @@
+BP_EnemyController_C /Game/ThirdPerson/UEDPIE_0_BA.BA:PersistentLevel.BP_EnemyController_C_1
+StateTree /Game/AI/ST_Enemy.ST_Enemy
+Tick
+31096
